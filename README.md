@@ -8,9 +8,11 @@ This repository hosts the official implementation of the paper:
 
 ## 🚀 Status
 
-Coming soon...
+The manuscript is currently in the **Decision in Process** stage.
 
-The official source code will be made accessible following the acceptance of the manuscript.
+The official source code will be made publicly available after the paper is accepted. Once the manuscript is accepted, we will organize and release the relevant project files and directory structure as soon as possible.
+
+Thank you for your interest and patience. Please stay tuned.
 
 ---
 
